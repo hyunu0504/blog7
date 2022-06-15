@@ -1,0 +1,24 @@
+body {
+  background-color: #eee;
+}
+.colors {
+  background-color: grey;
+  height: 500px;
+  width: 500px;
+}
+.colors2 {
+  background-color: green;
+  height: 500px;
+  width: 500px;
+}
+.btn {
+  margin-right: 50px;
+  margin-bottom: 100px;
+  font-size: 32;
+}
+.btn2 {
+  font-size: 32;
+}
+.btn3 {
+  font-size: 32;
+}
